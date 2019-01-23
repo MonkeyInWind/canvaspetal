@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/canvaspetal/precache-manifest.0ce3fadf70d995175037054f3dba6af5.js"
+  "/canvaspetal/precache-manifest.3b6f7856d84c99c3839e87b0ccb39905.js"
 );
 
 workbox.clientsClaim();
